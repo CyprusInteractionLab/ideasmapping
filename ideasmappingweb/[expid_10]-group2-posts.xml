@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<posts>
-<image name="player1" group="group2" url="winter.jpg" />
-<image name="player1" group="group2" url="Spring1.jpeg" />
-<image name="player2" group="group2" url="summer.jpg" />
-<image name="player3" group="group2" url="autumn2.jpg" />
-<image name="player4" group="group2" url="spring3.jpg" />
-</posts>
