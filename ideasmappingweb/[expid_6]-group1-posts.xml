@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<posts>
+<post name="player1" group="group1" note="Blue ocean" />
+<post name="player1" group="group1" note="sun" />
+<post name="player1" group="group1" note="ndm" />
+<image name="player1" group="group1" url="yellow.jpg" />
+</posts>

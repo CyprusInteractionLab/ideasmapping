@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<posts>
+<post name="player1" group="group1" note="Blue ocean" />
+<post name="player1" group="group1" note="sun" />
+<post name="player1" group="group1" note="ndm" />
+<image name="player1" group="group1" url="yellow.jpg" />
+<post name="player1" group="group2" note="red hot chilly pepers" />
+<image name="player2" group="group2" url="index.jpg" />
+<post name="player1" group="group4" note="Barbie" />
+<image name="player2" group="group4" url="973bd4adbf40153a15982921b39a1249.png" />
+<image name="player3" group="group4" url="Pink.jpg" />
+<image name="player1" group="group3" url="cute-green-frog-wallpaper.jpg" />
+<post name="player2" group="group3" note="Green Peace" />
+</posts>

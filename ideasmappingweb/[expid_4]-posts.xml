@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<posts>
+<post name="player1" group="group1" note="Hello  Μαργαρίτα" />
+<post name="player1" group="group1" note="whatever" />
+<post name="player1" group="group2" note="testq" />
+<post name="player3" group="group2" note="note 2 test" />
+<post name="player2" group="group3" note="note 2 test" />
+<post name="player4" group="group3" note="test" />
+<image name="player4" group="group3" url="2013-07-13_1240.png" />
+</posts>

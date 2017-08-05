@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<posts>
+<image name="player1" group="group3" url="krousta.JPG" />
+<image name="player1" group="group3" url="maracas.jpg" />
+<image name="player1" group="group3" url="sticks.jpg" />
+<image name="player2" group="group3" url="Krousta1.jpg" />
+<image name="player2" group="group3" url="maracas2.jpg" />
+<image name="player3" group="group3" url="Krousta3.jpg" />
+<image name="player3" group="group3" url="pnevsta1.jpg" />
+<image name="player4" group="group3" url="Krousta4.png" />
+</posts>

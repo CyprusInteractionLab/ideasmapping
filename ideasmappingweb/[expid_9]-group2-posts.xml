@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<posts>
+<image name="player1" group="group2" url="paper1.jpg" />
+<image name="player2" group="group2" url="metals2.jpg" />
+<image name="player4" group="group2" url="metals.jpg" />
+<image name="player4" group="group2" url="plastic.jpg" />
+</posts>

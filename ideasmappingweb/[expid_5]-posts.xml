@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<posts>
+<post name="player1" group="group3" note="yannis" />
+<post name="player1" group="group3" note="yannis" />
+<post name="player1" group="group3" note="yannis" />
+<image name="player1" group="group3" url="ideas_MA.jpg" />
+<image name="player2" group="group3" url="Ideas for a good education.jpg" />
+<image name="player3" group="group3" url="Βελτίωση εκπαίδευσης.jpg" />
+<post name="player1" group="group1" note="See beyond the technique of something, whether that is of a program or a technicality." />
+<post name="player1" group="group1" note="Brainstorming, being able to open your mind to new ideas." />
+<post name="player1" group="group1" note="Involve companies to the education. Open up carrier prospects for the students." />
+<post name="player1" group="group1" note="Extra lessons for learning software  programs, other than those in the MA program." />
+<image name="player1" group="group1" url="Assignment1.PNG" />
+<post name="player2" group="group1" note="Students have the opportunity to use the skills and knowledge of individual team member" />
+<post name="player2" group="group1" note="Use easy technologies,so we give less emphasis,learning the technology and focus on education. " />
+<post name="player2" group="group1" note="Using interactive technology you are more willing to participate." />
+<image name="player1" group="group2" url="group2.JPG" />
+<image name="player1" group="group2" url="improvement_ideas.jpg" />
+</posts>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<posts>
+<image name="player1" group="group1" url="glass.jpg" />
+<image name="player2" group="group1" url="Plastic2.jpg" />
+<image name="player3" group="group1" url="metals1.jpg" />
+<image name="player4" group="group1" url="Plastic5.jpg" />
+<image name="player1" group="group2" url="glass1.jpg" />
+<image name="player1" group="group2" url="metals2.jpg" />
+<image name="player2" group="group2" url="plastic.jpg" />
+<image name="player3" group="group2" url="paper7.jpg" />
+<image name="player1" group="group3" url="plastic6.jpg" />
+<image name="player1" group="group3" url="metals.jpg" />
+<image name="player1" group="group3" url="metals5.jpg" />
+<image name="player1" group="group4" url="glass2.JPG" />
+<image name="player1" group="group4" url="Plastic3.jpg" />
+<image name="player2" group="group4" url="metals8.jpg" />
+</posts>

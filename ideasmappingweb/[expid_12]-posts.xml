@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<posts>
+<image name="player1" group="group1" url="742px-Graeca0005.JPG" />
+<image name="player2" group="group1" url="akrida.jpg" />
+<image name="player2" group="group1" url="mamals2.jpg" />
+<image name="player3" group="group1" url="assets_LARGE_t_189761_54112791.JPG" />
+<image name="player3" group="group1" url="birds.jpg" />
+<image name="player3" group="group1" url="mamals3.jpg" />
+<image name="player4" group="group1" url="birds2.jpg" />
+<image name="player4" group="group1" url="mamals4.jpg" />
+<image name="player1" group="group2" url="birds3.jpg" />
+<image name="player1" group="group2" url="mamals5.jpg" />
+<image name="player1" group="group2" url="mzST3cG.jpg" />
+<image name="player3" group="group2" url="mamals6.jpg" />
+<image name="player4" group="group2" url="mamals7.jpg" />
+<image name="player1" group="group4" url="chicken.jpg" />
+<image name="player2" group="group4" url="entoma-e3ypnada-thumb-large.jpg" />
+<image name="player3" group="group4" url="erpeta.jpg" />
+<image name="player4" group="group4" url="mamals.jpg" />
+<image name="player1" group="group3" url="snake2.jpg" />
+<image name="player2" group="group3" url="birds4.jpg" />
+<image name="player3" group="group3" url="birds4.jpg" />
+<image name="player4" group="group3" url="εντομα.jpg" />
+</posts>

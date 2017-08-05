@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<posts>
+<post name="player1" group="group2" note="red hot chilly pepers" />
+<image name="player2" group="group2" url="index.jpg" />
+</posts>

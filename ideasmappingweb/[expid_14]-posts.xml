@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<posts>
+<image name="player1" group="group1" url="enxorda1.jpg" />
+<image name="player1" group="group1" url="krousta5.jpg" />
+<image name="player1" group="group1" url="pnevsta2.jpg" />
+<image name="player2" group="group1" url="Enxorda2.jpg" />
+<image name="player2" group="group1" url="krousta5.jpg" />
+<image name="player2" group="group1" url="pnevsta4.jpg" />
+<image name="player3" group="group1" url="Enxorda3.jpg" />
+<image name="player4" group="group1" url="Enxorda4.jpg" />
+<image name="player4" group="group1" url="pnevsta5.jpg" />
+<image name="player1" group="group2" url="enxorda5.jpg" />
+<image name="player1" group="group2" url="pnevsta6 (400x210).jpg" />
+<image name="player2" group="group2" url="Enxorda7.jpg" />
+<image name="player2" group="group2" url="pnevsta7.jpg" />
+<image name="player3" group="group2" url="Enxorda8.jpg" />
+<image name="player4" group="group2" url="Krousta 2.jpg" />
+<image name="player4" group="group2" url="Krousta6.jpg" />
+<image name="player4" group="group2" url="pnevtsta 7.jpg" />
+<image name="player1" group="group3" url="krousta.JPG" />
+<image name="player1" group="group3" url="maracas.jpg" />
+<image name="player1" group="group3" url="sticks.jpg" />
+<image name="player2" group="group3" url="Krousta1.jpg" />
+<image name="player2" group="group3" url="maracas2.jpg" />
+<image name="player3" group="group3" url="Krousta3.jpg" />
+<image name="player3" group="group3" url="pnevsta1.jpg" />
+<image name="player4" group="group3" url="Krousta4.png" />
+</posts>
